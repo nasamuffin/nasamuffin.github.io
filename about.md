@@ -26,3 +26,7 @@ see that handle in the wild, it's probably me.
 * Teradyne
 * Philips Medical Systems
 * Blackberry
+
+# Education
+
+* Northeastern University, B.S. Computer Engineering
