@@ -18,7 +18,7 @@ But then I subscribed to the mailing list, and it truly began to sink in to me
 that for the forseeable future, I could expect my mailbox to look something like
 this:
 
-TODO: screenshot of Gmail box full of PATCH emails
+![An inbox overflowing with patches.](/assets/how-i-learned-to-love-email-patches/patches-inbox.png)
 
 Ouch.
 
@@ -217,8 +217,6 @@ inline to the comment in question. (That way I know I didn't miss anything!)
 When you've addressed all the comments for a certain patch, make sure to `git
 add -u && git commit --amend` to update your commit with the changes. Once
 you've updated your entire branch this way, you're ready to send v2.
-
-TODO: --in-reply-to=ask
 
 {% highlight shell_session %}
 $ git format-patch --v2 -o feature-patches/ [--cover-letter]
