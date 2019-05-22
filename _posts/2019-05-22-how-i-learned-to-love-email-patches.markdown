@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "How I Learned to Love the Email Patch Developer Workflow"
-date: 2019-05-08 20:17:37 -0700
+date: 2019-05-22 00:51:50 -0700
 categories: git open-source email code-review
 ---
 _Note: This post is adapted in part from my guide to contributing to the Git
-project, which you can read [here](TODO: link to published tutorial). I owe my
-thanks to my reviewers there, including Junio C. Hamano, Johannes Schindelin,
-Jonathan Tan, Josh Steadmon, and Phil Hord._
+project, which you can read
+[here](https://github.com/git/git/blob/next/Documentation/MyFirstContribution.txt).
+I owe my thanks to my reviewers there, including Junio C. Hamano, Johannes
+Schindelin, Jonathan Tan, Josh Steadmon, and Phil Hord._
 
 Five weeks ago, I joined a new team at Google, and began contributing to a new
 project: [Git](https://git-scm.org). I was (and still am) thrilled to be
@@ -201,7 +202,7 @@ maybe "trickling" is a better word.)
 ## Responding to Comments
 
 _Note: As with Gerrit and other iterative code review tools based around a Git
-workflow, you should become comfortable using interactive rebase to modify your
+workflow, 
 feature branch. I won't cover that here, as it's not significantly different
 from other processes, and it's complex enough to take its own tutorial._
 
