@@ -202,9 +202,9 @@ maybe "trickling" is a better word.)
 ## Responding to Comments
 
 _Note: As with Gerrit and other iterative code review tools based around a Git
-workflow, 
-feature branch. I won't cover that here, as it's not significantly different
-from other processes, and it's complex enough to take its own tutorial._
+workflow, making your changes involves using interactive rebase. I won't cover
+that here, as it's not significantly different from other processes, and it's
+complex enough to take its own tutorial._
 
 Your reviewers will likely provide their comments inline, and it's often good
 manners to reply to each review comment indicating whether you've taken an
