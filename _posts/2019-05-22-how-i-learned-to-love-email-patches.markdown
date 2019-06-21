@@ -6,7 +6,7 @@ categories: git open-source email code-review
 ---
 _Note: This post is adapted in part from my guide to contributing to the Git
 project, which you can read
-[here](https://github.com/git/git/blob/next/Documentation/MyFirstContribution.txt).
+[here](https://github.com/git/git/blob/master/Documentation/MyFirstContribution.txt).
 I owe my thanks to my reviewers there, including Junio C. Hamano, Johannes
 Schindelin, Jonathan Tan, Josh Steadmon, and Phil Hord._
 
