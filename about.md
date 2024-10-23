@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Emily Shaffer is a software engineer at Google (c. 2019) with an emphasis on open source.
+Emily Shaffer is a software engineer at Google (c. 2024) with an emphasis on open source.
 
 # Projects
 
@@ -15,9 +15,9 @@ Emily Shaffer is a software engineer at Google (c. 2019) with an emphasis on ope
 
 # Contact
 
-I use the same handle on Freenode, Github, Twitter, LinkedIn, and more. I can
-also be reached with that handle via email @gmail.com and @google.com. If you
-see that handle in the wild, it's probably me.
+I use the same handle on Libera, Discord, Github, Twitter, LinkedIn, and more.
+I can also be reached with that handle via email @gmail.com and @google.com. If
+you see that handle in the wild, it's probably me.
 
 # Previous Organizations
 
