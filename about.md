@@ -8,10 +8,12 @@ Emily Shaffer is a software engineer at Google (c. 2024) with an emphasis on ope
 
 # Projects
 
-* [Git](git-scm.org)
+* [Git](https://git-scm.org)
   * Primary role!
-* [OpenBMC](openbmc.org)
-  * Maintainer, IPMI Stack
+* [OpenBMC](https://openbmc.org)
+  * Former maintainer, IPMI Stack
+
+Other things too. This is stale (c. 2024).
 
 # Contact
 
