@@ -153,7 +153,7 @@ beginning of each row instead.
 
 ![The other edge of the right side of the new swatch. It's pinned flat, but
 not stretched open. The stitches are fairly uniform, but maybe there are a few
-overlarge stitches here and there.](https://i.imgur.com/pXXOAJF.jpeg)
+overlarge stitches here and there.](https://i.imgur.com/rg8JPxl.jpeg)
 
 So my takeaway is so: **the ends of my rows are fine, but the beginnings are
 loose. And I probably pull the stitches too far open when working, making the
